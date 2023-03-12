@@ -1,0 +1,31 @@
+{
+  "name": "naresh_cyp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  },
+  "author": "",
+  "target": "node",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.2",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "chai": "^4.3.6",
+    "cucumber-json-report-formatter": "^0.0.9",
+    "cypress": "^10.10.0",
+    "cypress-iframe": "^1.0.1",
+    "esbuild": "^0.15.10",
+    "multiple-cucumber-html-reporter": "^3.0.1"
+  },
+  "dependencies": {
+    "cypress-downloadfile": "^1.2.3",
+    "cypress-xpath": "^2.0.1"
+  }
+}

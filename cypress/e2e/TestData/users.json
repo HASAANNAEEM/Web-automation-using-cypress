@@ -1,0 +1,176 @@
+{
+  "admin": {
+    "username": "addev\\ediscovery",
+    "password": "F4AEQkKUCvWzGMHn"
+  },
+  "ediscoveryUser": {
+    "username": "ediscoveryUser",
+    "password": "abc123"
+  },
+  "CreateUser": {
+    "firstname": "John11",
+    "lastname": "Doe11",
+    "name": "addev\\ediscoveryy",
+    "password": "Ba@112334455",
+    "confirmPass": "Ba@112334455",
+    "email": "ba1@gmail.com",
+    "username": "addev\\ediscoveryy"
+  },
+  "Roles": {
+    "name": "JohnTestRole11"
+  },
+  "testGroup": {
+    "name": "JohnTestGroup11",
+    "desc": "sample_test1"
+  },
+  "editRedactionName": {
+    "name": "To be determined_edited"
+  },
+  "NewRedaction": {
+    "name": "New Redaction Reason"
+  },
+  "NewRedactionCaseSpecific": {
+    "name": "Redaction Case Specific"
+  },
+  "RedactionCaseSpecificForTwo": {
+    "name": "Redaction Specific for two case"
+  },
+  "ConfidentialInformation": {
+    "name": "ConfidentialInformation"
+  },
+  "ConfidentialFTKC": {
+    "name": "ConfidentialFTKC"
+  },
+  "Confidential": {
+    "name": "Confidential"
+  },
+  "automationtestingreason01": {
+    "name": "automationtestingreason01"
+  },
+  "needstobe": {
+    "name": "Needs to be Redacted"
+  },
+  "Important": {
+    "name": "Important"
+  },
+  "CreateNewUserTest": {
+    "firstname": "demouser",
+    "lastname": "userfortest",
+    "name": "demotestuser",
+    "username": "demotestuser",
+    "password": "Exterro-!@#$%67",
+    "confirmPass": "Exterro-!@#$%67",
+    "email": "dmt@gmail.com",
+    "newemail": "sdfe@gmail.com"
+  },
+  "NewUserForPwdComplexity": {
+    "firstname": "demouser",
+    "lastname": "userfortest",
+    "name": "demotestuser",
+    "username": "demotestuser",
+    "password": 123456,
+    "confirmPass": 123456,
+    "email": "abcd@gmail.com"
+  },
+  "CreateNewUserForEditTest": {
+    "firstname": "demonameuser",
+    "lastname": "testuser",
+    "name": "demotestname",
+    "username": "demotestname",
+    "password": "Exterro-!@#$%67",
+    "confirmPass": "Exterro-!@#$%67",
+    "email": "sdfe@gmail.com"
+  },
+  "EditUserDetails": {
+    "email": "abcf@gmail.com",
+    "password": "Exterro-!@#$%67",
+    "confirmPass": "Exterro-!@#$%67"
+  },
+  "CreateGroupForTest": {
+    "name": "demoTestGroupone",
+    "desc": "sample_test1"
+  },
+  "CreateRoles": {
+    "name": "demoTestRoleOne"
+  },
+  "CreateUserForGroup": {
+    "firstname": "demotest",
+    "lastname": "usergroup",
+    "name": "demotestone",
+    "username": "demotestone",
+    "password": "Exterro-!@#$%67",
+    "confirmPass": "Exterro-!@#$%67",
+    "email": "one@gmail.com"
+  },
+  "CreateTempUserForGroup": {
+    "firstname": "demotesttwo",
+    "lastname": "usergrouptwo",
+    "name": "demotesttwo",
+    "username": "demotesttwo",
+    "password": "Exterro-!@#$%67",
+    "confirmPass": "Exterro-!@#$%67",
+    "email": "two@gmail.com"
+  },
+  "CreateGroupDemofortest": {
+    "name": "demoTestGrouptwo",
+    "desc": "sample_test1"
+  },
+  "CreateRolesForTest": {
+    "name": "demoRoleOne"
+  },
+  "UpdatedRoleForTest": {
+    "name": "demoRoleonetest"
+  },
+  "CreateRoleForCaseAdmin": {
+    "name": "demoRoleForCaseAdmin"
+  },
+  "CreateUserForRolePermission": {
+    "firstname": "demoUserRole",
+    "lastname": "RoleOne",
+    "name": "demouserroleone",
+    "username": "demouserroleone",
+    "password": "Exterro-!@#$%67",
+    "confirmPass": "Exterro-!@#$%67",
+    "email": "roleone@gmail.com"
+  },
+  "CreateUserForReviewIcon": {
+    "firstname": "demoUser",
+    "lastname": "RoleReview",
+    "name": "demouserrolereview",
+    "username": "demouserrolereview",
+    "password": "Exterro-!@#$%67",
+    "confirmPass": "Exterro-!@#$%67",
+    "email": "rolereview@gmail.com"
+  },
+  "CreateRoleForPermission": {
+    "name": "demoroleforpermission"
+  },
+  "CreateRoleForCodingPane": {
+    "name": "demoroleforcodingpane"
+  },
+  "CreateUserForCodingPane": {
+    "firstname": "demousercodingpane",
+    "lastname": "codingone",
+    "name": "democodingone",
+    "username": "democodingone",
+    "password": "Exterro-!@#$%67",
+    "confirmPass": "Exterro-!@#$%67",
+    "email": "codingone@gmail.com"
+  },
+  "CreateGroupForCodingPane": {
+    "name": "demogroupforcodingpane",
+    "desc": "sample_test1"
+  },
+  "CreateUserForNewRole": {
+    "firstname": "demonewUserRole",
+    "lastname": "RoleOne",
+    "name": "demonewuserfornewrole",
+    "username": "demonewuserfornewrole",
+    "password": "Exterro-!@#$%67",
+    "confirmPass": "Exterro-!@#$%67",
+    "email": "newrolenewuser@gmail.com"
+  },
+  "CreateRoleForNewUser": {
+    "name": "demorolenewuser"
+  }
+}
